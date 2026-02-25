@@ -33,6 +33,5 @@ An end-to-end Machine Learning project that predicts the probability of winning 
 - Improve model accuracy with advanced ensemble methods
 - Add historical season comparison
 - Deploy on Streamlit Cloud for public access
-## ▶️ How to Run Locally
 
 1. Clone the repository:
