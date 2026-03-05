@@ -34,4 +34,3 @@ An end-to-end Machine Learning project that predicts the probability of winning 
 - Add historical season comparison
 - Deploy on Streamlit Cloud for public access
 
-1. Clone the repository:
